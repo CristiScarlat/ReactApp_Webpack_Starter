@@ -6,7 +6,7 @@ class App extends Component {
         console.log(this.props)
         return (
         <div>
-            <h1>Simple React Test</h1>
+            <h1>Simple React Test and Webpack4</h1>
         </div>
         );
     }
