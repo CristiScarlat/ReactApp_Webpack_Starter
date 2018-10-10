@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 
 class App extends Component {
+    
     render(){
+        console.log(this.props)
         return (
         <div>
             <h1>Simple React Test</h1>
@@ -10,4 +12,4 @@ class App extends Component {
     }
 }
 
-export default App;
+export default App
