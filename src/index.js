@@ -1,5 +1,5 @@
 import react from 'react';
-import reactDOM from 'react';
+import reactDOM from 'react-dom';
 import App from './components/App.jsx';
 
 
